@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 
 ---
-Hello! Welcome to my website. Iʻm still working on the links and filling in information, so please check back in a few weeks for a complete site!
+Welcome to my website. Iʻm still working on the links and filling in information, so please check back in a few weeks for a complete site!
+
 (last updated 01-17-2024)
 
 <!-- ---
