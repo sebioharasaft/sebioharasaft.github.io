@@ -10,6 +10,6 @@ description: "This course provides "
 status: "active"
 ---
 
-**Description:** This course provides 
+**Description:** This course  
 
 **Semesters taught:** 
