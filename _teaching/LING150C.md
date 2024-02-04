@@ -9,3 +9,7 @@ time:
 description: "This course provides "
 status: "active"
 ---
+
+**Description:** This course provides 
+
+**Semesters taught:** 
