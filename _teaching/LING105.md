@@ -2,14 +2,8 @@
 title: "LING 105: Language Endangerment"
 collection: teaching
 permalink: /teaching/LING105
-date: 2024-02-02
-term: ""
-crn: 
-time: Online/Asynchronous
-description: "This course provides "
-status: "active"
 ---
 
 **Description:** This course provides 
 
-**Semesters taught:** 
+**Semesters taught:** Fall 2022, Spring 2023, Fall 2023
