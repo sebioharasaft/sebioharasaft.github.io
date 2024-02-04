@@ -2,7 +2,7 @@
 title: "LING 102: Introduction to the Study of Language"
 collection: teaching
 permalink: /teaching/LING102
-date: 
+date: x
 term: ""
 crn: 
 time: 
