@@ -1,7 +1,9 @@
 ---
 title: "LING 102: Introduction to the Study of Language"
 collection: teaching
-# date: 2024-02-04 
+date: 2024-02-04 
+type: something
+venue: something else
 permalink: /teaching/LING102
 ---
 **Short Description:** This course is something
