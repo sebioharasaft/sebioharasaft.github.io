@@ -1,6 +1,7 @@
 ---
 title: "LING 102: Introduction to the Study of Language"
 collection: teaching
+date: 2024-02-04 
 permalink: /teaching/LING102
 ---
 **Description:** This course  
