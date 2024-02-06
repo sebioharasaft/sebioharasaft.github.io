@@ -2,7 +2,7 @@
 title: "LING 150C: Language in Hawaiʻi and the Pacific (Lecture)"
 collection: teaching
 permalink: /teaching/LING150C
-short_description: "This course focuses on languages in Hawai’i and the Pacific and their relationships with culture, history,and the environment."
+short_description: "This course focuses on languages in Hawai’i and the Pacific and their relationships with culture, history, and the environment."
 order: 3
 ---
 
