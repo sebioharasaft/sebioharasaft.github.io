@@ -2,7 +2,7 @@
 title: "LING 150C: Language in Hawaiʻi and the Pacific (Lecture)"
 collection: teaching
 permalink: /teaching/LING150C
-short_description: "This course introduces a variety of languages in Hawaiʻi and the broader Pacific."
+short_description: "This course introduces a variety of languages in Hawaiʻi and the broader Pacific. Click the course title to learn more."
 order: 3
 ---
 
