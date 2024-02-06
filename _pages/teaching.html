@@ -10,6 +10,7 @@ author_profile: true
 </p> 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign sorted_teaching = site.teaching | sort: 'order' %}
+{% for post in sorted_teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
