@@ -2,8 +2,7 @@
 title: "Hawaiʻi English"
 collection: research
 permalink: /research/hawaii-english
-short_description: "Coming soon"
-date: 2024-02-12
+excerpt: "Coming soon"
 order: 2
 ---
 

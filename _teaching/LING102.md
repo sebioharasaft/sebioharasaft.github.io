@@ -2,7 +2,7 @@
 title: "LING 102: Introduction to the Study of Language (Lecture)"
 collection: teaching
 permalink: /teaching/LING102
-short_description: "This course introduces key topics in linguistics."
+excerpt: "This course introduces key topics in linguistics."
 order: 4
 ---
 
