@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-Welcome to my website. I am a PhD student in the [Linguistics Department](https://manoa.hawaii.edu/linguistics/) at University of Hawaiʻi at Mānoa. 
+Welcome to my website. I am a PhD student in the [Linguistics Department](https://manoa.hawaii.edu/linguistics/) at the University of Hawaiʻi at Mānoa. 
 
 My research focuses on [Jejueo](https://sites.google.com/a/hawaii.edu/jejueo/home), a critically endangered language spoken primarily on Jeju Island, South Korea. In addition to Jeju Island, I have been doing fieldwork in Osaka, Japan, where there are small groups of elderly Jejueo speakers. I employ both experimental and naturalistic data collection methods in the field. Read more about my research [here](/research).
 
