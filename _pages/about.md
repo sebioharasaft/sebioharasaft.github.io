@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 
 ---
-Welcome to my website. Iʻm still working on the links and filling in information, so please check back in a few weeks for a complete site!
+Welcome to my website. I am a PhD student in the [Linguistics Department](https://manoa.hawaii.edu/linguistics/) at University of Hawaiʻi at Mānoa. 
 
-(last updated 01-17-2024)
+My research focuses on [Jejueo](https://sites.google.com/a/hawaii.edu/jejueo/home), a critically endangered language spoken primarily on Jeju Island, South Korea. In addition to Jeju Island, I have been doing fieldwork in Osaka, Japan, where there are small groups of elderly Jejueo speakers. I employ both experimental and naturalistic data collection methods in the field. Read more about my research [here](/research).
+
+I am working on the links and filling in information on the entire site, so continue to check back in the coming weeks for a complete site! 
+(last updated 02-12-2024)
 
 <!-- ---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
