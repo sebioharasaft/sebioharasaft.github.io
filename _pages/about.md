@@ -14,6 +14,7 @@ My research focuses on [Jejueo](https://sites.google.com/a/hawaii.edu/jejueo/hom
 I have been teaching at UHM since 2020. Find out more about the courses I've taught [here](/teaching).
 
 I am working on the links and filling in information on the entire site, so continue to check back in the coming weeks for a more complete site! 
+
 (last updated 02-12-2024)
 
 <!-- ---
