@@ -11,7 +11,9 @@ Welcome to my website. I am a PhD student in the [Linguistics Department](https:
 
 My research focuses on [Jejueo](https://sites.google.com/a/hawaii.edu/jejueo/home), a critically endangered language spoken primarily on Jeju Island, South Korea. In addition to Jeju Island, I have been doing fieldwork in Osaka, Japan, where there are small groups of elderly Jejueo speakers. I employ both experimental and naturalistic data collection methods in the field. Read more about my research [here](/research).
 
-I am working on the links and filling in information on the entire site, so continue to check back in the coming weeks for a complete site! 
+I have been teaching at UHM since 2020. Find out more about the courses I've taught [here](/teaching).
+
+I am working on the links and filling in information on the entire site, so continue to check back in the coming weeks for a more complete site! 
 (last updated 02-12-2024)
 
 <!-- ---
