@@ -4,11 +4,11 @@ title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
 ---
-Coming soon...
+Below are the presentations I've given categorized into Invited Talks and Conferences. Click on the titles 
 
 <h2>Invited Talks </h2> 
 
-{% for post in site.talks %}
+{% for post in site.talks reversed %}
   {% if post.category == "invited" %}
     {% include archive-single-talk.html %}
   {% endif %}
@@ -16,7 +16,7 @@ Coming soon...
 
 <h2>Conferences</h2> 
 
-{% for post in site.talks %}
+{% for post in site.talks reversed %}
   {% if post.category == "conference" %}
     {% include archive-single-talk.html %}
   {% endif %}

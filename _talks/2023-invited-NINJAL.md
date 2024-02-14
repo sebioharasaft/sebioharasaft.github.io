@@ -2,12 +2,12 @@
 title: "An Investigation of Osaka Jeju Islanders’ Knowledge of Jejueo"
 collection: talks
 type: false
-permalink: /talks/invited-jejueo-NINJAL
+permalink: /talks/invited-NINJAL-jejueo
 venue: "National Institute for Japanese Language and Linguistics"
 date: 2023-07-21
 category: invited
 location: "Tokyo, Japan"
-excerpt: "This was a talk given as part of a joint workshop between University of Hawaiʻi at Mānoa and the National Institute of Japanese Language and Linguistics (NINJAL)." 
+excerpt: "This was a talk given at the National Institute for Japanese Language and Linguistics (NINJAL). I was invited by Masahiro Yamada, Director of the Port Language Revitalization Project at NINJAL." 
 ---
 
-Something else about this talk here. 
+[talk](https://www.ninjal.ac.jp/events_jp/20230721b/)
