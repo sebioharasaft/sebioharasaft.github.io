@@ -1,5 +1,5 @@
 ---
-title: "Something"
+title: "An Investigation of Osaka Jeju Islanders’ Knowledge of Jejueo"
 collection: talks
 type: false
 permalink: /talks/invited-jejueo-joint
