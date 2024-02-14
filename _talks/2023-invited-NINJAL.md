@@ -2,7 +2,7 @@
 title: "An Investigation of Osaka Jeju Islanders’ Knowledge of Jejueo"
 collection: talks
 type: false
-permalink: /talks/invited-jejueo-joint
+permalink: /talks/invited-jejueo-NINJAL
 venue: "National Institute for Japanese Language and Linguistics"
 date: 2023-07-21
 category: invited
