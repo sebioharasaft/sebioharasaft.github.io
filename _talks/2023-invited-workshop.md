@@ -10,4 +10,4 @@ location: "Honolulu, Hawaiʻi"
 excerpt: "This was a talk given as part of a joint workshop between University of Hawaiʻi at Mānoa and the National Institute of Japanese Language and Linguistics (NINJAL)." 
 ---
 
-Something about the talk here.
+Something more about the talk here. 
