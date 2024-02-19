@@ -2,7 +2,7 @@
 title: "New Speakers of Hawaiian in an English Dominant Society"
 collection: talks
 permalink: /talks/conference-IPrA-Hawaiian
-venue: ""Presented virtually at 18th International Pragmatics Conference (IPC) of the International Pragmatics Association (IPrA). Universite Libre de Bruxelles"
+venue: "Presented virtually at 18th International Pragmatics Conference (IPC) of the International Pragmatics Association (IPrA). Universite Libre de Bruxelles"
 date: 2023-07-10
 category: "conference"
 location: "Brussels, Belgium"
