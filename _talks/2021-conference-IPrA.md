@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/conference-IPrA-Jejueo-Education
 venue: "Presented virtually at 17th International Pragmatics Conference (IPC) of the International Pragmatics Association (IPrA). School of Applied Linguistics"
 date: 2021-07-01
-category: conference
+category: "conference"
 location: "Winterthur, Switzerland"
 excerpt: "This presentation reviewed the efforts to implement Jejueo education programs in schools on Jeju Island." 
 ---

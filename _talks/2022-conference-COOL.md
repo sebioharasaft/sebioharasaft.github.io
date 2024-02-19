@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/conference-COOL-Fijian
 venue: "Presented virtually at 12th Conference on Oceanic Linguistics (COOL). University of French Polynesia"
 date: 2022-09-05
-category: conference
+category: "conference"
 location: "Tahiti, French Polynesia"
 excerpt: "This presentation described tense and aspect markers in Kubulau Fijian, an Eastern Fijian language variety spoken in the Kubulau District of Bua Province of Vanua Levu, Fiji." 
 ---

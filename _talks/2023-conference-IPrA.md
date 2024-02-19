@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/conference-IPrA-Hawaiian
 venue: ""Presented virtually at 18th International Pragmatics Conference (IPC) of the International Pragmatics Association (IPrA). Université Libre de Bruxelles"
 date: 2023-07-10
-category: conference
+category: "conference"
 location: "Brussels, Belgium"
 excerpt: "This presentation discussed the Hawaiian language as spoken by ``new speaker`` high school students of a Hawaiian-medium school." 
 ---
