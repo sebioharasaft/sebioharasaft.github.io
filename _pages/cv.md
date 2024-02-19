@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Coming soon...
+
+<embed src="{{ site.baseurl }}/files/Ohara-Saft_CV_Feb2024.pdf" width="500" height="500" type='application/pdf'>
+
 
 ---
